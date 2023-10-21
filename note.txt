@@ -1,0 +1,33 @@
+npx create-react-app nameproject
+cd my-app
+npm start
+rfce
+npm install react-bootstrap
+npm install react-router-dom react-router-bootstrap
+pip install virtualenv
+pip list
+
+
+pip install virtualenv
+virtualenv myenv
+myenv\scripts\activate
+
+python manage.py runserver
+
+pip install django==4.1.2
+pip install djangorestframework
+
+
+python -m pip install django-cors-headers
+python manage.py migrate
+python manage.py makemigrations
+
+ 
+pip install pillow
+
+
+npm install
+npm start
+
+//npm install redux react-redux redux-thunk redux-devtools-extension
+//npm install axios
